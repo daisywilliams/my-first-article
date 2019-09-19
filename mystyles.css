@@ -1,79 +1,118 @@
-
-
 h1 {
-  text-align: left;
-  font-size: 100px;
-  letter-spacing: 30px
-
+    text-align: left;
+    font-size: 100px;
+    letter-spacing: 30px
 }
 
 h4 {
-  text-align: center;
-  font-size: 17px;
+    text-align: center;
+    font-size: 17px;
 
 }
 
+
 .hed {
     font-family: 'Karla', San-Serif;
-	margin: auto;
-	max-width: 620px;
-	text-transform: uppercase;
-	margin-bottom: 10px;
+    margin: auto;
+    max-width: 620px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
 
 }
 
 .small_hed {
-    font-family: 'Roboto', San-Serif; 
-	font-size: 4px
-	line-height: 1.8;
-	text-align: center;
+    font-family: 'Roboto', San-Serif;
+    font-size: 4px line-height: 1.8;
+    text-align: center;
     margin: 20px auto 20px auto;
     max-width: 700px;
 
 }
 
- .byline {
-	max-width: 620px;
+.byline {
+    max-width: 620px;
     margin: auto;
     font-family: 'Karla', San-Serif;
-	font-size: 19px
+    font-size: 19px
+}
+
+.copy {
+    font-family: 'Karla', San-Serif;
+    font-size: 17px;
+    line-height: 1.8;
+    text-align: left;
+    margin: 20px auto 20px auto;
+    max-width: 700px;
 
 }
 
- .copy {
-	font-family: 'Karla', San-Serif;
-	font-size: 4px
-	line-height: 1.8;
-	text-align: left;
+.quote {
+    font-size: 17px;
+    font-family: 'Roboto', San-Serif;
+    text-transform: lowercase;
+    line-height: 1.8;
+    text-align: left;
     margin: 20px auto 20px auto;
     max-width: 700px;
-	
+
+
 }
 
 .video {
-	margin: 20px auto 20px auto;
+    margin: 20px auto 20px auto;
     max-width: 700px;
+    max-height: 390px
+}
+
+.cap {
+    font-family: 'Roboto', San-Serif;
+    text-align: center;
+    font-size: 11px;
+    line-height: 1px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+
 
 }
 
-.caption { 
-	font-family: 'Roboto', San-Serif;
-	font-size: 11px
+.pic {
+
+    max-width: 720px;
+    margin: auto;
+}
+
+.tablehed {
+    font-family: 'Roboto', San-Serif;
+    font-size: 19px;
+    text-align: center;
+    text-transform: lowercase;
 
 }
 
- .related_hed {
-	font-family: 'Roboto', San-Serif; 
-	font-size: 20px
+.table {
+
+    font-family: 'Karla', San-Serif;
+    text-align: left;
+    max-width: 550px;
+    margin: auto;
+    font-size: 18px;
+
+
+
 
 }
 
- .related_body {
-	max-width: 620px;
+
+
+.related_hed {
+    font-family: 'Roboto', San-Serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.related_body {
+    max-width: 620px;
     margin: auto;
     font-family: 'Karla', San-Serif;
-	font-size: 19px
-
+    font-size: 19px
 }
-
-
